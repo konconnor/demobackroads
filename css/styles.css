@@ -520,6 +520,7 @@ Featured Tours
 
 .tour-img-container {
   position: relative;
+  overflow: hidden;
 }
 
 .tour-img {
