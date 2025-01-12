@@ -510,6 +510,7 @@ Featured Tours
   background-color: var(--clr-grey-10);
   box-shadow: var(--light-shadow);
   margin-bottom: 2rem;
+  border-radius: 10px;
 }
 
 .tour-card:hover {
