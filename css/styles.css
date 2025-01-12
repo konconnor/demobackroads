@@ -520,12 +520,13 @@ Featured Tours
 
 .tour-img-container {
   position: relative;
-  overflow: hidden;
 }
 
 .tour-img {
   height: 15rem;
   object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 .tour-date {
